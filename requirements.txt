@@ -1,0 +1,31 @@
+# requirements.txt
+
+```
+# Core ML/AI Dependencies
+torch>=2.0.0         # PyTorch for deep learning
+transformers>=4.30.0 # Hugging Face transformers for emotion detection model
+numpy>=1.21.0        # Numerical computing support
+
+# Hardware Interface
+hidapi>=0.14.0       # USB HID device communication
+pyusb>=1.2.1         # USB device support
+
+# Audio Processing
+pyttsx3>=2.90        # Offline text-to-speech
+gTTS>=2.3.2          # Google Text-to-Speech
+pygame>=2.5.0        # Audio playback and UI
+
+# Utility Libraries
+requests>=2.31.0     # HTTP requests for online services
+python-dotenv>=1.0.0 # Environment variable management
+colorama>=0.4.6      # Terminal color output
+
+# Optional Performance Improvements
+tqdm>=4.65.0         # Progress bars
+pandas>=2.0.0        # Data manipulation (for future analytics)
+
+# Development Dependencies (optional)
+pytest>=7.4.0        # Testing framework
+black>=23.3.0        # Code formatting
+flake8>=6.0.0        # Code linting
+mypy>=1.4.1          # Static type checking
