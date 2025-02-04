@@ -65,7 +65,7 @@ pip install -r requirements.txt
 
 4. Run the program:
 ```bash
-python main.py
+python Feelix.py
 ```
 
 ## Usage
