@@ -137,3 +137,8 @@ Current Version: 1.0.0
 - Simple user interface
 
 For more information, contact: [your-email@example.com]
+
+
+![Busylight-Competition-Theodore-Stabile-2](https://github.com/user-attachments/assets/cc59fb29-df2d-4e28-adaa-d78182e1eb0a)
+
+
